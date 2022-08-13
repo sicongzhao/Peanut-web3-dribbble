@@ -1,14 +1,14 @@
 # Peanut-web3-dribbble
 
-### Project Description
+### 1. Project Description
 
 Peanut is a social network for designers to share and promote their design and artwork. A user can upload their design and set a price for other users to collect their artwork. The author can optionally choose the collection logic. For example, one option is that once the artwork is collected, the collector will be granted an access to the source file of the design.
 
-### Product Design
+### 2. Product Design
 
 I started working on the frontend in VueJS. So below are the screenshots of the current website, to illustrate what the design look like. All images, user profiles are served as a placeholder, only for illustration purpose.
 
-#### 1.Home Page
+#### 2.1 Home Page
 
 ![homePage](./assets/homePage.png)
 
@@ -27,7 +27,9 @@ A user can do the following operations:
 5. Go to Profile Page by clicking the avatar or account name under the cover of each publication
 6. Text search
 
-### 2. Publication Detail page
+
+
+#### 2.2 Publication Detail page
 
 ![publicationDetail](./assets/publicationDetail.png)
 
@@ -52,7 +54,7 @@ Comments will be added. (Not reflected in this interface yet.)
 
 
 
-### 3. User Profile 
+#### 2.3 User Profile 
 
 ![userProfile](./assets/userProfile.png)
 
@@ -67,7 +69,7 @@ This page contains all publications posted or liked by a users.
 
 
 
-### 4. Uploader Page
+#### 2.4 Uploader Page
 
 ![uploaderPage](./assets/uploaderPage.png)
 
@@ -94,7 +96,7 @@ The UI for selecting collection logic will be added, along with the UI displayin
 
 
 
-### 5. Search Page
+#### 2.5 Search Page
 
 ![searchResults](./assets/searchResults.png)
 
@@ -106,3 +108,16 @@ A user can search by typing in the search bar in the header and press enter. The
 
 * Search by text
 * Go to publication detail or profile page form the search results.
+
+
+
+### 3. Milestones
+
+| Milestone | Task                                                         | TImeline |
+| --------- | ------------------------------------------------------------ | -------- |
+| 1         | Build the frontend, achieve all the funcitonality mentioned in this document. | 4 weeks  |
+| 2         | Build the frontend, achieve all the funcitonality mentioned in this document. | 3 weeks  |
+| 3         | Collect module that enable source file gate keeping and sharing. | 3 weeks  |
+
+
+
