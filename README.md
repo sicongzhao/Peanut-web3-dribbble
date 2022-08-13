@@ -121,3 +121,12 @@ A user can search by typing in the search bar in the header and press enter. The
 
 
 
+### 4. Technologies
+
+| Tech                                                         | Description                           |
+| ------------------------------------------------------------ | ------------------------------------- |
+| [VueJS](https://vuejs.org)                                   | Frontend Framework                    |
+| [Ceramic](https://ceramic.network) + [Lit Protocol](https://litprotocol.com) | Encrypted storage with access control |
+| [PyTorch](http://pytorch.org)                                | Machine Learning Framework            |
+| [IPFS](http://ipfs.io)                                       | Storage for files and metadata        |
+
